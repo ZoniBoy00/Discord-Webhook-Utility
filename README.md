@@ -86,7 +86,7 @@ You can customize the tool by editing the Python script. You can modify the defa
 - **Failed to install dependencies**: If the install.bat file fails, check your internet connection and make sure you're running the script with administrator privileges.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]([(https://github.com/ZoniBoy00/Discord-Webhook-Utility/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ZoniBoy00/Discord-Webhook-Utility/blob/main/LICENSE) file for details.
 
 ## Contribution
 Feel free to contribute to this project by forking the repository and submitting pull requests. If you have any ideas for new features or improvements, don't hesitate to open an issue or send a pull request.
