@@ -102,3 +102,6 @@ Contributions are welcome! You can:
 
 ## 📞 Contact
 For questions or feedback, create an issue on the [GitHub repository](https://github.com/ZoniBoy00/discord-webhook-utility).
+
+## Buy Me A Coffee ☕
+[Donate](https://buymeacoffee.com/zoniboy00)
